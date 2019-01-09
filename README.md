@@ -19,8 +19,7 @@ makes it easy to reason about your app. Flux is a pattern that helps keeping you
 <br>
 <h2>React ─ Advantages</h2>
 <ul>
-<li>
-Uses virtual DOM which is a JavaScript object. This will improve apps performance,
+<li>Uses virtual DOM which is a JavaScript object. This will improve apps performance,
   since JavaScript virtual DOM is faster than the regular DOM.</li>
 <li>Can be used on client and server side as well as with other frameworks.<li>
 <li>Component and data patterns improve readability, which helps to maintain larger
